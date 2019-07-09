@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "",
+    "punchline": "Optimism as an Ideal. ",
     "toc": "",
     "author_detail": "",
     "colophon": "",
@@ -18,5 +18,5 @@
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/candide/master/assets",
   "book_id": 833,
-  "book_url": "http://bubblin.io/book/candide-by-voltaire"
+  "book_url": "https://bubblin.io/book/candide-by-voltaire"
 }
